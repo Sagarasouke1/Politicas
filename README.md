@@ -11,11 +11,8 @@ Este repositorio define los lineamientos obligatorios para el acceso a servidore
 
 1. Solicitud formal
    - Link: https://forms.gle/79NtAivtMB2Z13Rm9
-3. Justificación documentada  
-4. Aprobación previa  
-5. Asignación de acceso  
-6. Registro en logs  
-7. Revocación automática  
+2. Justificación documentada   
+3. Revocación automática  
 
 ---
 
