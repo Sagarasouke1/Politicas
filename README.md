@@ -10,7 +10,7 @@ Este repositorio define los lineamientos obligatorios para el acceso a servidore
 ## 🔁 Flujo obligatorio
 
 1. Solicitud formal
-   Link: https://forms.gle/79NtAivtMB2Z13Rm9
+   - Link: https://forms.gle/79NtAivtMB2Z13Rm9
 3. Justificación documentada  
 4. Aprobación previa  
 5. Asignación de acceso  
