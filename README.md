@@ -43,9 +43,8 @@ Si alguno de los pasos no se cumple, el acceso se considera **NO AUTORIZADO**.
 | Rol | SCP (Linux) | ANALÍTICA (Windows) | Nivel |
 |-----|------------|--------------------|------|
 | Admin Sistemas | Completo | Completo | Total |
-| Jefe TIC | ❌ | Lectura | Limitado |
-| Coordinadora | ❌ | Supervisado | Parcial |
-| Soporte | ❌ | ❌ | Restringido |
+| Jefe TIC | Lectura | Lectura | Limitado |
+| Coordinadora | Supervisado | Supervisado | Parcial |
 
 ---
 
@@ -71,13 +70,6 @@ No se otorgan accesos por jerarquía, solo por función.
 - RDP controlado  
 - Usuarios estándar  
 - Auditoría activa  
-
----
-
-## 🌐 VPN
-
-- Acceso obligatorio  
-- Registro de sesión  
 
 ---
 
